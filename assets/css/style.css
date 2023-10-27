@@ -12,6 +12,7 @@ body {
 }
 /*push down footer*/
 main {
+    display: flex;
     flex: 1;
 }
 footer {
