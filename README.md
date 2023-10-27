@@ -40,3 +40,6 @@ Solution?
 1. Realize that I haven't saved changes. Click save on each file and git add, commit and push after each. Now the picture in menu works. Not the others.
 2. Add id="footer" to the section in footer and copy-paste background color from id="social-media" to id="footer. Does not work. 
 3. Add text-decoration: none; color: black to body. Does not work.
+
+Try to push down footer with, flex: 0; on footer and flex: 1; on main. Does not work. 
+So I rehearse and read --> https://css-tricks.com/snippets/css/a-guide-to-flexbox/
