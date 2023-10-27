@@ -27,6 +27,7 @@ footer {
     color: whitesmoke;
     background-color: darkolivegreen;
     flex-direction: row;
+    justify-content: flex-end;
 }
 
 /*home-page*/
