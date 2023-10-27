@@ -37,6 +37,6 @@ Have three problems:
 3. The text in homepage/index.html links to about.html
 
 Solution?
-1.
+1. Realize that I haven't saved changes. Click save on each file and git add, commit and push after each. Now the picture in menu works. Not the others.
 2. Add id="footer" to the section in footer and copy-paste background color from id="social-media" to id="footer. Does not work. 
-3. Add text-decoration: none; color: black to body. Does not work
+3. Add text-decoration: none; color: black to body. Does not work.
