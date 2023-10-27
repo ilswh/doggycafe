@@ -40,6 +40,7 @@ footer {
 }
 #footer {
     background-color: darkolivegreen;
+    justify-content: center;
 }
 /*social media icons footer*/
 #social-media {
