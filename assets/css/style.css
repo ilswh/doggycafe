@@ -20,14 +20,12 @@ body {
 
 /*home-page*/
 #homepage-main {
-    background: url(../images/doggycafe/doggy-daycare.jpg) width: 1980; height: 1280px
-     no-repeat top center / cover;
+    background: url(../images/doggycafe/doggy-daycare.jpg) no-repeat top center / cover;
 }
 
 /*menu-page*/
 #menu-main {
-    background: url('../images/doggycafe/fifty-bullar.jpg') width: 1980; height: 1280px 
-    no-repeat top center / cover;
+    background: url('../images/doggycafe/fifty-bullar.jpg') no-repeat top center / cover;
 }
 #footer {
     background-color: darkolivegreen;
