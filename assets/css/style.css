@@ -1,33 +1,37 @@
 /*google fonts*/
+/*add here*/
 
 /*asterics wildcard to override all general styles set by browser*/
-* {
-    padding: 0;
-}
-/*body*/
+/*add here*/
+
+/*general rules*/
 body {
     font-family: 'Times New Roman', Times, serif;
     color: black;
+    text-decoration: none;
 }
-/*headings*/
-h1, h3 {
-    text-transform: uppercase;
-}
+
 /*navigation-bar*/
 #nav-bar {
     list-style-type: none;
     color: whitesmoke;
     background-color: darkolivegreen;
 }
-/*paragraph*/
-p {
-    font-family: 'Times New Roman', Times, serif;
-    color: black;
-    text-decoration: none;
+
+/*home-page*/
+#homepage-main {
+    background: url(../images/doggycafe/doggy-daycare.jpg) no-repeat top center / cover;
+}
+
+/*menu-page*/
+#menu-main {
+    background: url('../images/doggycafe/fifty-bullar.jpg') no-repeat top center / cover;
+}
+#footer {
+    background-color: darkolivegreen;
 }
 /*social media icons footer*/
-#social-media{
+#social-media {
     list-style-type: none;
     color: whitesmoke;
-    background-color: darkolivegreen;
-    }
+}
