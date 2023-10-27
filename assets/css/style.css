@@ -10,6 +10,7 @@ body {
     color: black;
     text-decoration: none;
 }
+
 /*push down footer*/
 main {
     display: flex;
@@ -25,6 +26,7 @@ footer {
     list-style-type: none;
     color: whitesmoke;
     background-color: darkolivegreen;
+    flex-direction: row;
 }
 
 /*home-page*/
@@ -43,4 +45,5 @@ footer {
 #social-media {
     list-style-type: none;
     color: whitesmoke;
+    flex-direction: row;
 }
