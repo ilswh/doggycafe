@@ -30,6 +30,11 @@ footer {
     justify-content: flex-end;
 }
 
+/*class active on nav-bar*/
+.active {
+border-bottom: 1px solid #3a3a3a;
+}
+
 /*home-page*/
 #homepage-main {
     background: url(../images/doggycafe/doggy-daycare.jpg) no-repeat top center / cover;
