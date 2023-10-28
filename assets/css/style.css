@@ -13,6 +13,12 @@ header {
     background-color: darkolivegreen; 
 }
 
+/*main*/
+main {
+    display: flex;
+    justify-content: center;
+}
+
 /*footer*/
 footer {
     background-color: darkolivegreen;
