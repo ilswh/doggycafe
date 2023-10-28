@@ -16,13 +16,15 @@ header {
 
 /*main*/
 main {
+    min-height: 100vh;
     display: flex;
-    justify-content: center;
-}
+    flex-direction: column;
+  }
 
 /*footer*/
 footer {
     background-color: darkolivegreen;
+    margin-top: auto;
 }
 
 /*navigation-bar*/
