@@ -13,12 +13,6 @@ header {
     background-color: darkolivegreen; 
 }
 
-/*main*/
-main {
-    display: flex;
-    justify-content: center;
-}
-
 /*footer*/
 footer {
     background-color: darkolivegreen;
@@ -48,7 +42,13 @@ border-bottom: 1px solid #3a3a3a;
     background: url('../images/doggycafe/fifty-bullar.jpg') no-repeat top center / cover;
 }
 
-/*galley in about*/
+/*gallery*/
+#gallery {
+    display: flex;
+    justify-content: center;
+}
+
+/*photos in about*/
 .photos {
 width: 300px;
 height: 300px;
