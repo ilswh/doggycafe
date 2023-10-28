@@ -43,3 +43,6 @@ Solution?
 
 Try to push down footer with, flex: 0; on footer and flex: 1; on main. Does not work. 
 So I rehearse and read --> https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+Push footer down:
+https://wetainment.com/articles/sticky-html-footer/
+https://www.30secondsofcode.org/css/s/footer-at-the-bottom/
