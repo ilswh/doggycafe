@@ -44,7 +44,7 @@ border-bottom: 1px solid #3a3a3a;
 #footer {
     background-color: darkolivegreen;
     display: flex;
-
+    justify-content: center;
 }
 /*social media icons footer*/
 #social-media {
@@ -52,5 +52,5 @@ border-bottom: 1px solid #3a3a3a;
     color: whitesmoke;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
 }
