@@ -16,6 +16,7 @@ main {
     flex-wrap: wrap;
 }
 footer {
+    display: flex;
     flex: 0;
 }
 
@@ -24,6 +25,7 @@ footer {
     list-style-type: none;
     color: whitesmoke;
     background-color: darkolivegreen;
+    display: flex;
     flex-direction: row;
     justify-content: flex-end;
 }
@@ -39,11 +41,13 @@ footer {
 }
 #footer {
     background-color: darkolivegreen;
+    display: flex;
     justify-content: center;
 }
 /*social media icons footer*/
 #social-media {
     list-style-type: none;
     color: whitesmoke;
+    display: flex;
     flex-direction: row;
 }
