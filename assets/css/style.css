@@ -18,6 +18,7 @@ main {
 footer {
     display: flex;
     flex: 0;
+    justify-content: flex-end;
 }
 
 /*navigation-bar*/
