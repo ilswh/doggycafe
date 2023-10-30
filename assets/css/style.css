@@ -21,7 +21,7 @@ main {
     display: flex;
     flex-direction: column;
     align-items: center;
-  }
+}
 
 /*make all main-content more centered*/
 .main-content {
@@ -47,7 +47,7 @@ h3 {
     color: whitesmoke;
     display: flex;
     flex-direction: row;
-    justify-content: flex-end;
+    align-items: flex-end;
 }
 
 /*class active on nav-bar*/
@@ -70,16 +70,14 @@ h3 {
 }
 
 .photos {
-display: flex;
-flex-direction: row;
-flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
 /*footer*/
 #footer {
     background-color: white;
-    display: flex;
-    justify-content: center;
 }
 
 /*social media icons footer*/
@@ -88,7 +86,6 @@ flex-wrap: wrap;
     color: whitesmoke;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
 }
 
 /* Media query: large or landscape phones (576px and up) 
