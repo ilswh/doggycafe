@@ -29,11 +29,17 @@ footer {
     margin-top: auto;
 }
 
-div {
+/*main*/
+.main {
     padding: 60px;
     border: 30px;
     margin: 30px;
 }
+
+/*h3
+h3 {
+
+}*/
 
 /*navigation-bar*/
 #nav-bar {
