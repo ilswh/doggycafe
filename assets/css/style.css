@@ -47,7 +47,7 @@ h3 {
     color: whitesmoke;
     display: flex;
     flex-direction: row;
-    align-items: flex-end;
+    justify-content: space-evenly
 }
 
 /*class active on nav-bar*/
