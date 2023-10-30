@@ -78,6 +78,9 @@ h3 {
 /*footer*/
 #footer {
     background-color: white;
+    padding: 40px;
+    border: 10px;
+    margin: 10px:
 }
 
 /*social media icons footer*/
@@ -86,6 +89,7 @@ h3 {
     color: whitesmoke;
     display: flex;
     flex-direction: row;
+    justify-content: space-evenly;
 }
 
 /* Media query: large or landscape phones (576px and up) 
