@@ -23,17 +23,17 @@ main {
     align-items: center;
   }
 
+/*make all main-content more centered*/
+.main-content {
+    padding: 60px;
+    border: 40px;
+    margin: 20px;
+}
+
 /*footer*/
 footer {
     background-color: white;
     margin-top: auto;
-}
-
-/*main*/
-.main {
-    padding: 60px;
-    border: 30px;
-    margin: 30px;
 }
 
 /*h3
