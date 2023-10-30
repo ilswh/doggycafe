@@ -92,6 +92,11 @@ h3 {
     justify-content: space-evenly;
 }
 
+#openwhen {
+    display: flex;
+    justify-content: center;
+}
+
 /* Media query: large or landscape phones (576px and up) 
 @media screen and (min-width: 576px)
 @media screen and (min-width: 576px) */
