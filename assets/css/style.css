@@ -11,7 +11,7 @@
 
 /*header*/
 header {
-    background-color: darkolivegreen;
+    background-color: white;
 }
 
 /*main*/
@@ -23,7 +23,7 @@ main {
 
 /*footer*/
 footer {
-    background-color: darkolivegreen;
+    background-color: white;
     margin-top: auto;
 }
 
@@ -68,7 +68,7 @@ footer {
 
 /*footer*/
 #footer {
-    background-color: darkolivegreen;
+    background-color: white;
     display: flex;
     justify-content: center;
 }
