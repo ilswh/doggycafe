@@ -49,13 +49,13 @@ footer {
     background-size: cover;
 }
 
-/*menu-page*/
+/*menu-page
 #menu-main {
-    background: url('../images/doggycafe/fifty-bullar.jpg') no-repeat center fixed;
+    background: no-repeat center fixed;
     width: 100%;
     height: 300px;
     background-size: cover;
-}
+}*/
 
 /*photos in about*/
 .photos img {
