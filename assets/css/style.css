@@ -63,7 +63,7 @@ footer {
     height: 300px;
     display: flex;
     flex-direction: row;
-    column-count: 4;
+    column-count: 2;
 }
 
 /*footer*/
