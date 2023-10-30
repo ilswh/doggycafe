@@ -61,9 +61,10 @@ footer {
 .photos {
     width: 300px;
     height: 300px;
-    display: flex;
-    flex-direction: column;
-    column-count: 4;
+    display: grid;
+    align-self: center;
+    row-gap: 10px;
+    column-gap: 10px;
 }
 
 /*footer*/
