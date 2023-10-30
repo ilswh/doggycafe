@@ -94,7 +94,7 @@ h3 {
 
 #openwhen {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
 }
 
 /* Media query: large or landscape phones (576px and up) 
