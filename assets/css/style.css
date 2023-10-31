@@ -66,6 +66,7 @@ h3 {
 /*photos in about*/
 .photos img {
     width: 300px;
+    background-size: contain;
 }
 
 .photos {
