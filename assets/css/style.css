@@ -80,8 +80,9 @@ h3 {
 /*form*/
 #form {
     display: flex;
-    gap: 15px 15px;
+    flex-direction: row;
     justify-content: center;
+    gap: 15px 15px;
 }
 
 /*footer*/
