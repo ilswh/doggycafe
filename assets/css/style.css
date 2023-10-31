@@ -77,6 +77,13 @@ h3 {
     gap: 20px 10px;
 }
 
+/*form*/
+#form {
+    display: flex;
+    gap: 15px 15px;
+    justify-content: center;
+}
+
 /*footer*/
 #footer {
     background-color: white;
