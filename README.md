@@ -29,6 +29,10 @@ After that I started creating the html structure. Lastly I started styling with 
 ### Colour Scheme
 
 I chose to keep it simple and stick with black and white. 
+When it comes to the photos, I wanted colors that felt close to nature. 
+For the background picture I wanted something earthy and grounded.
+As for the gallery I wanted to expand and add the blues together with greens for some crisp. 
+But still in the same place which is the caring embrace of nature.
 Explain your colours and the colour scheme.
 
 - Black used for primary text.
@@ -71,7 +75,7 @@ I've used CSS `:root` variables to easily update the global colour scheme by cha
 
 ### Typography
 
-I chose Times New Roman although it is not made for the web, it is my favourite.
+I chose Times New Roman although it is not made for the web, it is my favourite as it gives me the feeling of having met before.
 I used icons from Font Awesome.
 Explain any fonts and icon libraries used, like Google Fonts and/or Font Awesome.
 
