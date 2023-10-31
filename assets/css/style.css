@@ -32,13 +32,12 @@ main {
 
 /*text-box over background image*/
 #text-index {
-    position: absolute;
-  bottom: 20px;
-  right: 20px;
-  background-color: white;
-  color: black;
-  padding-left: 20px;
-  padding-right: 20px;
+    position: relative;
+    background-color: white;
+    color: black;
+    padding: 10px;
+    border-radius: 15px;
+    opacity: 0.2px;
 }
 
 /*footer*/
@@ -119,15 +118,13 @@ h3 {
 }
 
 /* Media query: large or landscape phones (576px and up) */
-@media screen and (min-width: 576px) 
-.photos img {
+@media screen and (min-width: 576px) .photos img {
     max-width: 300px;
     background-size: contain;
 }
 
 /* Media query: tablets and larger (768px and up) */
-@media screen and (min-width: 768px) 
-.photos img {
+@media screen and (min-width: 768px) .photos img {
     max-width: 300px;
     background-size: contain;
 }
