@@ -88,6 +88,10 @@ main {
     padding: 30px;
 }
 
+fieldset {
+    border: none;
+}
+
 /*footer*/
 footer {
     background-color: white;
