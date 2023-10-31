@@ -65,8 +65,8 @@ h3 {
 
 /*photos in about*/
 .photos img {
-    width: 300px;
-    background-size: contain;
+    max-width: 300px;
+    height: 100%;
 }
 
 .photos {
@@ -97,12 +97,19 @@ h3 {
     justify-content: space-evenly;
 }
 
-/* Media query: large or landscape phones (576px and up) 
-@media screen and (min-width: 576px)
-@media screen and (min-width: 576px) */
+/* Media query: large or landscape phones (576px and up) */
+@media screen and (min-width: 576px) 
+.photos img {
+    max-width: 300px;
+    background-size: contain;
+}
 
-/* Media query: tablets and larger (768px and up) 
-@media screen and (min-width: 768px) */
+/* Media query: tablets and larger (768px and up) */
+@media screen and (min-width: 768px) 
+.photos img {
+    max-width: 300px;
+    background-size: contain;
+}
 
 /* Large devices (laptops and desktops, 992px and up) 
 @media screen and (min-width: 992px) */
