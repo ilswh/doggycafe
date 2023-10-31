@@ -11,9 +11,6 @@ Consider adding a mockup image using the "Am I Responsive" website.
 Here's your deployed site as an example:
 https://ui.dev/amiresponsive?url=https://ilswh.github.io/doggycafe
 
-Screenshots for the README and testing should not be inside of `assets/` or `static/` image folders.
-(reminder: `assets/` and `static/` are for files used on the live site, not documentation)
-Consider adding a new folder called `documentation`, and add the amiresponsive screenshot inside of that folder.
 To add the image into your README, use this format:
 (assuming you have a new folder called `documentation` with an image called "mockup.png")
 
@@ -26,16 +23,17 @@ https://pandao.github.io/editor.md/en.html
 
 ## UX
 
-My design process started with sketches with pen and paper and proceeded to making wireframes. After that I started creating the html structure. Lastly I started styling with css.
+My design process started with sketches with pen and paper and proceeded to making wireframes. 
+After that I started creating the html structure. Lastly I started styling with css.
 
 ### Colour Scheme
 
 I chose to keep it simple and stick with black and white. 
 Explain your colours and the colour scheme.
 
-- `#000000` used for primary text.
+- Black used for primary text.
 - `#E84610` used for primary highlights.
-- `#4A4A4F` used for secondary text.
+- Black used for secondary text.
 - `#009FE3` used for secondary highlights.
 
 Consider adding a link and screenshot for your colour scheme using "coolors".
@@ -73,8 +71,8 @@ I've used CSS `:root` variables to easily update the global colour scheme by cha
 
 ### Typography
 
-I chose times new roman although it is not made for the web, it is my favourite.
-I used paw icons from Font Awesome.
+I chose Times New Roman although it is not made for the web, it is my favourite.
+I used icons from Font Awesome.
 Explain any fonts and icon libraries used, like Google Fonts and/or Font Awesome.
 
 Consider adding a link to each font used, and the Font Awesome site if used (or similar icon library).
@@ -415,15 +413,9 @@ by sending yourself the following command: `!freemedia`.
 
 ### Acknowledgements
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+To all support that helped, encouraged and supported me throughout the development stages of this Doggy Cafe.
 
-Use this space to provide attribution to any supports that helped, encouraged, or supported you throughout the development stages of this project.
-A few examples have been provided below to give you some ideas.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-- I would like to thank my Code Institute mentor, [Tim Nelson](https://github.com/TravelTimN) for their support throughout the development of this project.
+- I would like to thank my Code Institute mentor, [Tim Nelson](https://github.com/TravelTimN) for their incredible support throughout the development of this project.
 - I would like to thank the [Code Institute](https://codeinstitute.net) tutor team for their assistance with troubleshooting and debugging some project issues.
-- I would like to thank the [Code Institute Slack community](https://code-institute-room.slack.com) for the moral support; it kept me going during periods of self doubt and imposter syndrome.
-- I would like to thank my partner (John/Jane), for believing in me, and allowing me to make this transition into software development.
-- I would like to thank my employer, for supporting me in my career development change towards becoming a software developer.
+- I would like to thank the [Code Institute Slack community](https://code-institute-room.slack.com) for the moral support; it kept me going during periods of self doubt.
+- I would like to thank my family and friends, especially my mother, for believing in me and allowing me to make this transition into software development.
