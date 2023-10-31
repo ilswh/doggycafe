@@ -81,7 +81,7 @@ h3 {
 #form {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start flex-end;
     gap: 15px 15px;
 }
 
