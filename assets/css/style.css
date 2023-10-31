@@ -66,17 +66,6 @@ main {
 
 }
 
-#text-box-about {
-    position: top;
-    background-color: white;
-
-    color: black;
-    padding: 5px;
-    padding-left: 15px;
-    padding-right: 15px;
-    border-radius: 15px;
-}
-
 
 /*photogallery in about*/
 .photos img {
