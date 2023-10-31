@@ -1,14 +1,11 @@
 # [DOGGYCAFE](https://ilswh.github.io/doggycafe)
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+Doggy Cafe is a cafe for dog-families in beautiful surroundings.
+The website consist of five pages; home, menu, about, gallery and contact. 
 
-In this section, you will include a few paragraphs providing an overview of your project.
-Essentially, this part is your "sales pitch".
-
-At this stage, you should have a name for your project so use it!
-Don't introduce the project as a "portfolio project" for the diploma.
-
-In this section, describe what the project hopes to accomplish, who it is intended to target, and how it will be useful to the target audience.
+My hope is that this site let's more people know more about the Doggy Cafe and makes people curious.
+The target audience is people with dogs, people who love dogs and people who want to enjoy the countryside of Uppsala, Sweden.
+The site will be useful for this audience because they will discover a place peace and joy.
 
 Consider adding a mockup image using the "Am I Responsive" website.
 Here's your deployed site as an example:
@@ -26,30 +23,20 @@ Note: Markdown files (.md) should not contain HTML elements like `img`, `br`, `d
 Find out more about using Markdown elements here:
 https://pandao.github.io/editor.md/en.html
 
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 ## UX
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-In this section, you will briefly explain your design processes.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+My design process started with sketches with pen and paper and proceeded to making wireframes. After that I started creating the html structure. Lastly I started styling with css.
 
 ### Colour Scheme
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
+I chose to keep it simple and stick with black and white. 
 Explain your colours and the colour scheme.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 - `#000000` used for primary text.
 - `#E84610` used for primary highlights.
 - `#4A4A4F` used for secondary text.
 - `#009FE3` used for secondary highlights.
-
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
 
 Consider adding a link and screenshot for your colour scheme using "coolors".
 https://coolors.co/generate
@@ -86,15 +73,13 @@ I've used CSS `:root` variables to easily update the global colour scheme by cha
 
 ### Typography
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
+I chose times new roman although it is not made for the web, it is my favourite.
+I used paw icons from Font Awesome.
 Explain any fonts and icon libraries used, like Google Fonts and/or Font Awesome.
 
 Consider adding a link to each font used, and the Font Awesome site if used (or similar icon library).
 
 Example:
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 - [Montserrat](https://fonts.google.com/specimen/Montserrat) was used for the primary headers and titles.
 
@@ -103,8 +88,6 @@ Example:
 - [Font Awesome](https://fontawesome.com) icons were used throughout the site, such as the social media icons in the footer.
 
 ## Wireframes
-
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
 
 In this section, display your wireframe screenshots using a Markdown `table`.
 Instructions on how to do Markdown `tables` start on line #213 on this site: https://pandao.github.io/editor.md/en.html
@@ -193,7 +176,12 @@ etc.
 
 ## Features
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+As mentioned above, the Doggy Cafe website consist of five pages.
+Home which is as introduction of the cafe.
+Menu which introduces my customers to what we serve; dogs and humans.
+About shows the background story of Doggy Cafe.
+Gallery shows pictures taken of visitors of the Cafe and the surroundings.
+Contact gives the curious or/and intrigued an opportunity to ask questions or send a request.
 
 In this section, you should go over the different parts of your project,
 and describe each in a sentence or so.
@@ -206,39 +194,56 @@ For some/all of your features, you may choose to reference the specific project 
 
 IMPORTANT: Remember to always include a screenshot of each individual feature!
 
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 ### Existing Features
 
-- **Title for feature #1**
+- **Home**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    - Home is the introduction to Doggy Cafe and is there to underwhelm and create a desire to find out more and start exploring the site. 
 
 ![screenshot](documentation/feature01.png)
 
-- **Title for feature #2**
+- **Menu**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    - The menu shows what visitors can expect food-whys when they arrive. 
+    For themselves and their dog.
+
 
 ![screenshot](documentation/feature02.png)
 
-- **Title for feature #3**
+- **About**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    - About lets the visitor know when and why the idea of the Doggy Cafe was born.
 
 ![screenshot](documentation/feature03.png)
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+- **Gallery**
 
-Repeat as necessary for as many features as your site contains.
+    - The gallery is an feel of an visual experience of the Doggy Cafe. It is the ambiance of Doggy Cafe.
 
-Hint: the more, the merrier!
+![screenshot](documentation/feature03.png)
 
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+- **Contact**
+
+    - The form on contact is there to not leave any wondering or wandering minds lost or left behind.
+
+![screenshot](documentation/feature03.png)
+
+- **Social Media & Opening Hours**
+
+    - The form on contact is there to not leave any wondering or wandering minds lost or left behind.
+    Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+
+![screenshot](documentation/feature03.png)
+
+- **Navigation Bar**
+
+    - The form on contact is there to not leave any wondering or wandering minds lost or left behind.
+    Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+
+![screenshot](documentation/feature03.png)
 
 ### Future Features
-
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
 
 Do you have additional ideas that you'd like to include on your project in the future?
 Fantastic! List them here!
@@ -291,7 +296,7 @@ Feel free to delete any unused items below as necessary.
 
 ## Testing
 
-For all testing, please refer to the [TESTING.md](TESTING.md) file.
+All testing can be found in the [TESTING.md](TESTING.md) file.
 
 ## Deployment
 
