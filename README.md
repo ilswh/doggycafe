@@ -35,10 +35,10 @@ As for the gallery I wanted to expand and add the blues together with greens for
 But still in the same place which is the caring embrace of nature.
 Explain your colours and the colour scheme.
 
-- Black used for primary text.
-- `#E84610` used for primary highlights.
-- Black used for secondary text.
-- `#009FE3` used for secondary highlights.
+- Black used for text.
+- White used for background.
+- White used for header and footer
+
 
 Consider adding a link and screenshot for your colour scheme using "coolors".
 https://coolors.co/generate
