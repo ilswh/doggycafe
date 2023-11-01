@@ -105,7 +105,7 @@ footer {
     background-color: white;
     padding: 40px;
     border: 10px;
-    margin: 10px:
+    margin: 10px;
 }
 
 /*opening hours*/
@@ -124,15 +124,19 @@ footer {
 }
 
 /* Media query: large or landscape phones (576px and up) */
-@media screen and (min-width: 576px) .photos img {
-    max-width: 300px;
-    background-size: contain;
+@media screen and (min-width: 576px) {
+    .photos img {
+        max-width: 300px;
+        background-size: contain;
+    }
 }
 
 /* Media query: tablets and larger (768px and up) */
-@media screen and (min-width: 768px) .photos img {
-    max-width: 300px;
-    background-size: contain;
+@media screen and (min-width: 768px) {
+    .photos img {
+        max-width: 300px;
+        background-size: contain;
+    }
 }
 
 /* Large devices (laptops and desktops, 992px and up) 
