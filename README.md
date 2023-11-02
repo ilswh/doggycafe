@@ -41,9 +41,6 @@ Explain your colours and the colour scheme.
 - White used for header and footer
 
 
-![screenshot](documentation/coolors.png)
-
-
 ### Typography
 
 I chose Times New Roman although it is not made for the web, it is my favourite as it gives me the feeling of having met before.
@@ -163,12 +160,6 @@ IMPORTANT: Remember to always include a screenshot of each individual feature!
 
 ### Future Features
 
-Do you have additional ideas that you'd like to include on your project in the future?
-Fantastic! List them here!
-It's always great to have plans for future improvements!
-Consider adding any helpful links or notes to help remind you in the future, if you revisit the project in a couple years.
-
-
 - Title for future feature #1
     - Any additional notes about this feature.
 - Title for future feature #2
@@ -246,9 +237,15 @@ Use this space to discuss any differences between the local version you've devel
 
 ## Credits
 
-In this section you need to reference where you got your content, media, and extra help from.
-It is common practice to use code from other repositories and tutorials,
-however, it is important to be very specific about these sources to avoid plagiarism.
+I used these very helpful links to better the project.
+In this section I reference where I got extra help from.
+
+| Source | Location | Notes |
+| --- | --- | --- |
+| https://www.30secondsofcode.org/css/s/footer-at-the-bottom/ |  footer | helped me understand how to push footer down |
+| https://www.w3schools.com/css/css3_images.asp |  photos | gave me inspiration to style photos |
+| https://www.w3schools.com/cssref/css3_pr_border-radius.php |
+| https://stackoverflow.com/questions/4230375/whats-the-easiest-way-to-remove-fieldset-border-lines |  fieldset | learned me how to remove border lines in fieldset |
 
 
 ### Content
@@ -256,28 +253,17 @@ however, it is important to be very specific about these sources to avoid plagia
 Use this space to provide attribution links to any borrowed code snippets, elements, or resources.
 A few examples have been provided below to give you some ideas.
 
-Ideally, you should provide an actual link to every resource used, not just a generic link to the main site!
 
 | Source | Location | Notes |
 | --- | --- | --- |
 | [Markdown Builder](https://traveltimn.github.io/markdown-builder) | README and TESTING | tool to help generate the Markdown files |
-| [W3Schools](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp) | entire site | responsive HTML/CSS/JS navbar |
-| [W3Schools](https://www.w3schools.com/howto/howto_css_modals.asp) | contact page | interactive pop-up (modal) |
-| [W3Schools](https://www.w3schools.com/css/css3_variables.asp) | entire site | how to use CSS :root variables |
+| [W3Schools](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp) | entire site | responsive HTML/CSS/ |
 | [Flexbox Froggy](https://flexboxfroggy.com/) | entire site | modern responsive layouts |
 | [Grid Garden](https://cssgridgarden.com) | entire site | modern responsive layouts |
 
 ### Media
 
-Use this space to provide attribution links to any images, videos, or audio files borrowed from online.
-A few examples have been provided below to give you some ideas.
-
-If you're the owner (or a close acquaintance) of all media files, then make sure to specify this.
-Let the assessors know that you have explicit rights to use the media files within your project.
-
-Ideally, you should provide an actual link to every media file used, not just a generic link to the main site!
-The list below is by no means exhaustive. Within the Code Institute Slack community, you can find more "free media" links
-by sending yourself the following command: `!freemedia`.
+Here you can see my sources of for the use of media.
 
 | Source | Location | Type | Notes |
 | --- | --- | --- | --- |
