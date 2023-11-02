@@ -11,15 +11,6 @@ Consider adding a mockup image using the "Am I Responsive" website.
 Here's your deployed site as an example:
 https://ui.dev/amiresponsive?url=https://ilswh.github.io/doggycafe
 
-To add the image into your README, use this format:
-(assuming you have a new folder called `documentation` with an image called "mockup.png")
-
-![screenshot](documentation/mockup.png)
-
-Note: Markdown files (.md) should not contain HTML elements like `img`, `br`, `div`, `a`, etc, only Markdown formatting.
-Find out more about using Markdown elements here:
-https://pandao.github.io/editor.md/en.html
-
 
 ## UX
 
@@ -50,22 +41,7 @@ I used icons from Font Awesome.
 
 ## Wireframes
 
-In this section, display your wireframe screenshots using a Markdown `table`.
-Instructions on how to do Markdown `tables` start on line #213 on this site: https://pandao.github.io/editor.md/en.html
-
-Alternatively, dropdowns are a way to condense several wireframes into a collapsible menu to save space.
-Dropdowns in Markdown are considered some of the only acceptable HTML components that are allowed for assessment purposes.
-
-**IMPORTANT**! **IMPORTANT**! **IMPORTANT**!
-The example below uses the `details` and `summary` code elements.
-However, for these scripts to work, I've had to add spaces within the `< >` elements.
-
-You MUST remove these spaces for it to work properly on your own README/TESTING files.
-Remove the spaces within the `< >` brackets for the `details` and `summary` code elements,
-for the Mobile, Tablet, and Desktop wireframes.
-
 I've used ['Mockflows WireframePro'](https://www.mockflow.com/apps/wireframepro/) to design my site wireframes.
-
 
 ### Desktop Wireframes
 
@@ -160,12 +136,20 @@ IMPORTANT: Remember to always include a screenshot of each individual feature!
 
 ### Future Features
 
-- Title for future feature #1
-    - Any additional notes about this feature.
-- Title for future feature #2
-    - Any additional notes about this feature.
-- Title for future feature #3
-    - Any additional notes about this feature.
+- Menu book
+    - As seen in the wireframe, I want to make it look like you open a book when looking at the menu.
+- Adress
+    - I want to add the adress in the footer.
+- Hamburger bar
+    - I want to add an hamburger bar where the nav-bar is in the header.
+- Colors
+    - I want to choose and add the approiate colors.
+- Font
+    - I want to find diffrent fonts for the headings and paragraphs and also another one for the h1.
+- Icons
+    - I want to add more icons and emojis here and there. Emoji-faces and leaves and waterfalls etc.
+
+
 
 ## Tools & Technologies Used
 
