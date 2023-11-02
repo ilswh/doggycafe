@@ -279,12 +279,28 @@ Ideally, you should provide an actual link to every media file used, not just a 
 The list below is by no means exhaustive. Within the Code Institute Slack community, you can find more "free media" links
 by sending yourself the following command: `!freemedia`.
 
-
 | Source | Location | Type | Notes |
 | --- | --- | --- | --- |
-| [Pexels](https://www.pexels.com) | entire site | image | favicon on all pages |
-| [Unsplash](https://unsplash.com) | product page | image | sample of fake products |
+| [Unsplash](https://unsplash.com) | product page | image | for gallery and background |
+| [Pexels](https://www.pexels.com) | entire site | image | for gallery and background |
 | [TinyPNG](https://tinypng.com) | entire site | image | tool for image compression |
+| --- | --- | --- | --- |
+| [Unsplash] https://unsplash.com/photos/border-colie-on-rocky-river-WGP0uYcn9SE | entire site | image | for gallery and background |
+| [Unsplash] https://unsplash.com/photos/walkway-between-green-grass-at-daytime-IqErth7cRJM | entire site | image | for gallery and background |
+| [Unsplash] https://unsplash.com/photos/green-trees-in-forest-Omlu0KHlUiQ | entire site | image | for gallery and background |
+| [Unsplash] https://unsplash.com/photos/brown-bread-on-white-paper-zOliwDYxxDg | entire site | image | for gallery and background |
+| [Unsplash] https://unsplash.com/es/fotos/un-perro-acostado-en-la-hierba-junto-a-una-hamaca-xuq3CwRYmro | entire site | image | for gallery and background |
+| [Unsplash] https://unsplash.com/photos/shallow-focus-photography-of-white-shih-tzu-puppy-running-on-the-grass-qO-PIF84Vxg | entire site | image | for gallery and background |
+| [Unsplash] https://unsplash.com/photos/a-group-of-horses-stand-in-a-grassy-field-a-lrqwFF3UE | entire site | image | for gallery and background |
+| [Unsplash] https://unsplash.com/photos/stainless-steel-vacuum-flask-beside-brown-cookies-on-brown-wooden-table-jpxnIN5AC4g | entire site | image | for gallery and background |
+| [Unsplash] https://unsplash.com/photos/silver-bucket-on-wooden-fence-US_PBO48mIg | entire site | image | for gallery and background |
+| [Unsplash] https://unsplash.com/photos/white-ceramic-cup-with-saucer-on-brown-wooden-table-c8gSQkwWoRA | entire site | image | for gallery and background |
+| [Unsplash] https://unsplash.com/photos/brown-and-white-long-coated-small-dog-lying-on-green-grass-G8cB8hY3yvU | entire site | image | for gallery and background |
+| [Unsplash] https://unsplash.com/photos/a-wooden-fence-in-a-field-with-leaves-on-the-ground-7HZE1wTQ7Cw | entire site | image | for gallery and background |
+| [Pexels] https://www.pexels.com/photo/close-up-photo-of-water-on-river-1626219/ | entire site | image | for gallery & background |
+| [Pexels] https://www.pexels.com/photo/adorable-dogs-sitting-on-pathway-in-countryside-7210625/ | entire site | image | for gallery & background |
+| [Pexels] https://www.pexels.com/photo/siberian-husky-doing-a-wink-expression-3196887/ | entire site | image | for gallery and background |
+
 
 ### Acknowledgements
 
