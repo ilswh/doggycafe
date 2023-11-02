@@ -36,7 +36,7 @@
     <!--main-->
     <main  id="background-image-contact">
         <!--contact section-->
-        <section>
+        <div>
             <div class="main-content"  id="text-box">
                 <p> Want us to arrange a doggydate and prepare a picnic-basket?
                     <br>
@@ -45,11 +45,11 @@
                 <fieldset>
                     <legend> Let us know </legend>
                 <form action="confirmation.html" target="_blank" id="form">
-                    <label for="name" name="name"> Name </label>
-                    <input for="name" type="text" required>
+                    <label for="name"> Name </label>
+                    <input name="name" type="text" required>
                     <br><br>
-                    <label for="email" name="email">Email </label>
-                    <input id="email" type="email" required>
+                    <label for="email"">Email </label>
+                    <input name="email" type="email" required>
                     <br><br>
                     <label for="message"> Message </label>
                     <textarea id="message" name="message"></textarea>
@@ -58,14 +58,14 @@
                 </form>
             </fieldset>
             </div>
-        </section>
+        </div>
     </main>
     <!--footer-->
     <footer>
         <!--opening hours-->
         <div id="footer">
-            <p id="openwhen">Opening hours: Thursday to Monday</p>
-            <p id="openwhen">05.00-22.00</p>
+            <p class="openwhen">Opening hours: Thursday to Monday</p>
+            <p class="openwhen">05.00-22.00</p>
             <!--social media links-->
             <ul id="social-media">
                 <li>
