@@ -105,31 +105,31 @@ IMPORTANT: Remember to always include a screenshot of each individual feature!
 
     - The gallery is an feel of an visual experience of the Doggy Cafe. It is the ambiance of Doggy Cafe.
 
-![screenshot](documentation/feature03.png)
+![screenshot](documentation/feature04.png)
 
 - **Contact**
 
     - The form on contact is there to not leave any wondering or wandering minds lost or left behind.
 
-![screenshot](documentation/feature03.png)
+![screenshot](documentation/feature05.png)
 
 - **Confirmationr**
 
     - After filling in a contact form and sending it, the website takes you to a confirmation page.
 
-![screenshot](documentation/feature03.png)
+![screenshot](documentation/feature06.png)
 
 - **Social Media & Opening Hours**
 
     - In the footer is Social Media icons with links and the Doggy Cafes opening hours. So all guests know when to visit and dicover our marketing/media section.
 
-![screenshot](documentation/feature03.png)
+![screenshot](documentation/feature07.png)
 
 - **Navigation Bar**
 
     - The navigation bar is there to make it simple for the customer.
 
-![screenshot](documentation/feature03.png)
+![screenshot](documentation/feature08.png)
 
 ### Future Features
 
