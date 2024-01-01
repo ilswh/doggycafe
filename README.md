@@ -45,20 +45,17 @@ I've used ['Mockflows WireframePro'](https://www.mockflow.com/apps/wireframepro/
 
 ### Desktop Wireframes
 
-< details >
-< summary > Click here to see the Desktop Wireframes < / summary >
-
 Home
-  - ![screenshot](documentation/wf.home.pngpng.png)
+  - ![screenshot](documentation/wf.home.png)
 
 About
-  - ![screenshot](documentation/wf.about-gallery.pngout.png)
+  - ![screenshot](documentation/wf.about-gallery.png)
 
 Menu
-  - ![screenshot](documentation/wf.menu.png.png)
+  - ![screenshot](documentation/wf.menu.png)
 
 Gallery
-  - ![screenshot](documentation/wireframes/desktop-gallery.png)
+  - ![screenshot](documentation/wf.about-gallery.png)
 
 
 ## Features

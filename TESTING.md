@@ -8,33 +8,32 @@ I have tested the project in threee different browsers.
 
 ## Code Validation
 
-Use the space to discuss code validation for any of your own code files (where applicable).
-
-
 ### HTML
 
 I have used the recommended [HTML W3C Validator](https://validator.w3.org) to validate all of my HTML files.
 
 | Page | Screenshot | Notes |
-| Home | documentation/HTML-validator-index.png | --- |
-| Menu | documentation/HTML-validator-menu.png | --- |
-| About | documentation/HTML-validator-about.png | --- |
-| Gallery | documentation/HTML-validator-gallery.png | --- |
-| Contact | --- | --- |
-| Confirmation | documentation/HTML-validator-confirmation.png | --- |
+| --- | --- | --- |
+| Home | ![screenshot](documentation/html-validator-index.png) | --- |
+| Menu | ![screenshot](documentation/html-validator-menu.png) | --- |
+| About | ![screenshot](documentation/html-validator-about.png) | --- |
+| Gallery | ![screenshot](documentation/html-validator-gallery.png) | --- |
+| Contact | ![screenshot](documentation/html-validator-contact.png) | --- |
+| Confirmation | ![screenshot](documentation/html-validator-confirmation.png) | --- |
 
 
 ### CSS
 
 I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate all of my CSS files.
 
-| File | Screenshot | Notes |
-| Home | documentation/CSS-validation-index.png | --- |
-| Menu | documentation/CSS-validation-menu.png | --- |
-| About | documentation/CSS-validation-about.png | --- |
-| Gallery | documentation/CSS-validation-gallery.png | --- |
-| Contact | documentation/CSS-validation-contact.png | --- |
-| Confirmation | documentation/CSS-validation-confirmation.png | --- |
+| File | Screenshot |
+| --- | --- |
+| Home | ![screenshot](documentation/css-validation-index.png) |
+| Menu | ![screenshot](documentation/css-validation-menu.png) |
+| About | ![screenshot](documentation/css-validation-about.png) |
+| Gallery | ![screenshot](documentation/css-validation-gallery.png) |
+| Contact | ![screenshot](documentation/css-validation-contact.png) |
+| Confirmation | ![screenshot](documentation/css-validation-confirmation.png) |
 
 
 
@@ -47,27 +46,20 @@ I have tested the project in following browsers: chrome, firefox and safari.
 
 | Browser | Home | Menu |  About |  Gallery | Contact | Confirmation |
 | --- | --- | --- | --- | --- | --- |--- |
-| Chrome | documentation/chrome-index.png | documentation/chrome-menu.png | documentation/chrome-gallery.png | documentation/css-validation-contact.png | documentation/chrome-contact.png | --- |
-| Firefox | documentation/firefox-index.png | documentation/firefox-menu.png | documentation/firefox-about.png | documentation/firefox-gallery.png | documentation/firefox-contact.png | --- |
-| Safari | documentation/firefox-contact.png | documentation/safari-menu.png | documentation/safari-about.png | documentation/safari-gallery.png | documentation/safari-contact.png | --- |
+| Chrome | ![screenshot](documentation/chrome-index.png) | ![screenshot](documentation/chrome-menu.png) | ![screenshot](documentation/chrome-about.png) | ![screenshot](documentation/chrome-gallery.png) | ![screenshot](documentation/chrome-contact.png) | ![screenshot](documentation/chrome-confirmation.png) |
+| Firefox | ![screenshot](documentation/firefox-index.png) | ![screenshot](documentation/firefox-menu.png) | ![screenshot](documentation/firefox-about.png) | ![screenshot](documentation/firefox-gallery.png) | ![screenshot](documentation/firefox-contact.png) | ![screenshot](documentation/firefox-confirmation.png) |
+| Safari | ![screenshot](documentation/safari-index.png) | ![screenshot](documentation/safari-menu.png) | ![screenshot](documentation/safari-about.png) | ![screenshot](documentation/safari-gallery.png) | ![screenshot](documentation/safari-contact.png) | ![screenshot](documentation/safari-confirmation.png) |
+
 
 ## Responsiveness
-
-Use this space to discuss testing the live/deployed site on various device sizes.
-
-Using the "amiresponsive" mockup image (or similar) does not suffice the requirements.
-Consider using some of the built-in device sizes in the Developer Tools.
-
-Sample responsiveness testing documentation:
 
 I've tested my deployed project on multiple devices to check for responsiveness issues.
 
 | Device | Home | Menu |  About |  Gallery | Contact | Confirmation |
+| --- | --- | --- | --- | --- | --- | --- |
 | Computer | --- | --- | --- | --- | --- | --- |
-| Ipad | --- | --- | --- | --- | --- | --- |
-| Iphone | --- | --- | --- | --- | --- | --- |
-Did not have time to add relative paths, all is found in documentation.
-
+| Ipad | ![screenshot](documentation/ipad-index.png) | ![screenshot](documentation/ipad-about.png) | ![screenshot](documentation/ipad-menu.png) | ![screenshot](documentation/ipad-gallery.png) | ![screenshot](documentation/ipad-contact.png) | ![screenshot](documentation/ipad-confirmation.png) |
+| Iphone | ![screenshot](documentation/iphone-index.png) | ![screenshot](documentation/iphone-menu.png) | ![screenshot](documentation/iphone-about.png) | ![screenshot](documentation/iphone-gallery.png) | ![screenshot](documentation/iphone-contact.png) | ![screenshot](documentation/iphone-confirmation.png) |
 
 
 ## Lighthouse Audit
@@ -75,15 +67,17 @@ Did not have time to add relative paths, all is found in documentation.
 Use this space to discuss testing the live/deployed site's Lighthouse Audit reports.
 Avoid testing the local version (especially if developing in Gitpod), as this can have knock-on effects of performance.
 
-documentation/lighthouse-index.png
-documentation/lighthouse-menu.png
-documentation/lighthouse-about.png
-documentation/lighthouse-gallery.png
-documentation/lighthouse-contact.png
+![screenshot](documentation/lighthouse-index.png)
+![screenshot](documentation/lighthouse-menu.png)
+![screenshot](documentation/lighthouse-about.png)
+![screenshot](documentation/lighthouse-gallery.png)
+![screenshot](documentation/lighthouse-contact.png)
+![screenshot](documentation/lighthouse-confirmation.png)
 
 ## Bugs
 
+Text on contact and our story is not reponding well on phones. The text does not fit. 
+I was planning on fixing it by adding media-queries.
 
 ## Unfixed Bugs
 
-Text on contact and our story is not reponding well on phones. The text does not fit. I was planning on doing a change in media.
