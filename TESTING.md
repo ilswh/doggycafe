@@ -57,7 +57,7 @@ I've tested my deployed project on multiple devices to check for responsiveness 
 
 | Device | Home | Menu |  About |  Gallery | Contact | Confirmation |
 | --- | --- | --- | --- | --- | --- | --- |
-| Computer | --- | --- | --- | --- | --- | --- |
+| Computer | ![screenshot](documentation/chrome-index.png) | ![screenshot](documentation/chrome-menu.png) | ![screenshot](documentation/chrome-about.png) | ![screenshot](documentation/chrome-gallery.png) | ![screenshot](documentation/chrome-contact.png) | ![screenshot](documentation/chrome-confirmation.png) |
 | Ipad | ![screenshot](documentation/ipad-index.png) | ![screenshot](documentation/ipad-about.png) | ![screenshot](documentation/ipad-menu.png) | ![screenshot](documentation/ipad-gallery.png) | ![screenshot](documentation/ipad-contact.png) | ![screenshot](documentation/ipad-confirmation.png) |
 | Iphone | ![screenshot](documentation/iphone-index.png) | ![screenshot](documentation/iphone-menu.png) | ![screenshot](documentation/iphone-about.png) | ![screenshot](documentation/iphone-gallery.png) | ![screenshot](documentation/iphone-contact.png) | ![screenshot](documentation/iphone-confirmation.png) |
 
