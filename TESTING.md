@@ -36,11 +36,7 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 | Confirmation | ![screenshot](documentation/css-validation-confirmation.png) |
 
 
-
 ## Browser Compatibility
-
-
-Use this space to discuss testing the live/deployed site on various browsers.
 
 I have tested the project in following browsers: chrome, firefox and safari.
 
@@ -64,9 +60,6 @@ I've tested my deployed project on multiple devices to check for responsiveness 
 
 ## Lighthouse Audit
 
-Use this space to discuss testing the live/deployed site's Lighthouse Audit reports.
-Avoid testing the local version (especially if developing in Gitpod), as this can have knock-on effects of performance.
-
 ![screenshot](documentation/lighthouse-index.png)
 ![screenshot](documentation/lighthouse-menu.png)
 ![screenshot](documentation/lighthouse-about.png)
@@ -76,8 +69,9 @@ Avoid testing the local version (especially if developing in Gitpod), as this ca
 
 ## Bugs
 
-Text on contact and our story is not reponding well on phones. The text does not fit. 
-I was planning on fixing it by adding media-queries.
+
 
 ## Unfixed Bugs
 
+The text on contact and about is not responding well on phones. 
+I plan on adding media queries to fix this.
