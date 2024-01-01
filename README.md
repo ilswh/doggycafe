@@ -113,7 +113,7 @@ IMPORTANT: Remember to always include a screenshot of each individual feature!
 
 ![screenshot](documentation/feature05.png)
 
-- **Confirmationr**
+- **Confirmation**
 
     - After filling in a contact form and sending it, the website takes you to a confirmation page.
 
