@@ -144,14 +144,12 @@ Make sure to put a link (where applicable) to the source, and explain what each 
 Some examples have been provided, but this is just a sample only, your project might've used others.
 Feel free to delete any unused items below as necessary.
 
-- [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) used for an enhanced responsive layout.
-- [CSS Grid](https://www.w3schools.com/css/css_grid.asp) used for an enhanced responsive layout..
+- [HTML](https://en.wikipedia.org/wiki/HTML) used for the main site content.
+- [CSS](https://en.wikipedia.org/wiki/CSS) used for the main site design and layout.
 - [Git](https://git-scm.com) used for version control. (`git add`, `git commit`, `git push`)
 - [GitHub](https://github.com) used for secure online code storage.
 - [GitHub Pages](https://pages.github.com) used for hosting the deployed front-end site.
 - [Gitpod](https://gitpod.io) used as a cloud-based IDE for development.
-- [Bootstrap](https://getbootstrap.com) used as the front-end CSS framework for modern responsiveness and pre-built components.
-- [Materialize](https://materializecss.com) used as the front-end CSS framework for modern responsiveness and pre-built components.
 
 ## Testing
 
@@ -208,10 +206,10 @@ In this section I reference where I got extra help from.
 
 | Source | Location | Notes |
 | --- | --- | --- |
-| https://www.30secondsofcode.org/css/s/footer-at-the-bottom/ |  footer | helped me understand how to push footer down |
-| https://www.w3schools.com/css/css3_images.asp |  photos | gave me inspiration to style photos |
-| https://www.w3schools.com/cssref/css3_pr_border-radius.php |
-| https://stackoverflow.com/questions/4230375/whats-the-easiest-way-to-remove-fieldset-border-lines |  fieldset | learned me how to remove border lines in fieldset |
+| [30 seconds of code](https://www.30secondsofcode.org/css/s/footer-at-the-bottom/) |  footer | helped me understand how to push footer down |
+| [W3 schools](https://www.w3schools.com/css/css3_images.asp) |  photos | gave me inspiration to style photos |
+| [W3 schools](https://www.w3schools.com/cssref/css3_pr_border-radius.php) |
+| [Stack Overflow](https://stackoverflow.com/questions/4230375/whats-the-easiest-way-to-remove-fieldset-border-lines) |  fieldset | learned me how to remove border lines in fieldset |
 
 
 ### Content
@@ -234,22 +232,21 @@ Here you can see my sources of for the use of media.
 | [Unsplash](https://unsplash.com) | product page | image | for gallery and background |
 | [Pexels](https://www.pexels.com) | entire site | image | for gallery and background |
 | [TinyPNG](https://tinypng.com) | entire site | image | tool for image compression |
-| --- | --- | --- | --- |
-| [Unsplash] https://unsplash.com/photos/border-colie-on-rocky-river-WGP0uYcn9SE | entire site | image | for gallery and background |
-| [Unsplash] https://unsplash.com/photos/walkway-between-green-grass-at-daytime-IqErth7cRJM | entire site | image | for gallery and background |
-| [Unsplash] https://unsplash.com/photos/green-trees-in-forest-Omlu0KHlUiQ | entire site | image | for gallery and background |
-| [Unsplash] https://unsplash.com/photos/brown-bread-on-white-paper-zOliwDYxxDg | entire site | image | for gallery and background |
-| [Unsplash] https://unsplash.com/es/fotos/un-perro-acostado-en-la-hierba-junto-a-una-hamaca-xuq3CwRYmro | entire site | image | for gallery and background |
-| [Unsplash] https://unsplash.com/photos/shallow-focus-photography-of-white-shih-tzu-puppy-running-on-the-grass-qO-PIF84Vxg | entire site | image | for gallery and background |
-| [Unsplash] https://unsplash.com/photos/a-group-of-horses-stand-in-a-grassy-field-a-lrqwFF3UE | entire site | image | for gallery and background |
-| [Unsplash] https://unsplash.com/photos/stainless-steel-vacuum-flask-beside-brown-cookies-on-brown-wooden-table-jpxnIN5AC4g | entire site | image | for gallery and background |
-| [Unsplash] https://unsplash.com/photos/silver-bucket-on-wooden-fence-US_PBO48mIg | entire site | image | for gallery and background |
-| [Unsplash] https://unsplash.com/photos/white-ceramic-cup-with-saucer-on-brown-wooden-table-c8gSQkwWoRA | entire site | image | for gallery and background |
-| [Unsplash] https://unsplash.com/photos/brown-and-white-long-coated-small-dog-lying-on-green-grass-G8cB8hY3yvU | entire site | image | for gallery and background |
-| [Unsplash] https://unsplash.com/photos/a-wooden-fence-in-a-field-with-leaves-on-the-ground-7HZE1wTQ7Cw | entire site | image | for gallery and background |
-| [Pexels] https://www.pexels.com/photo/close-up-photo-of-water-on-river-1626219/ | entire site | image | for gallery & background |
-| [Pexels] https://www.pexels.com/photo/adorable-dogs-sitting-on-pathway-in-countryside-7210625/ | entire site | image | for gallery & background |
-| [Pexels] https://www.pexels.com/photo/siberian-husky-doing-a-wink-expression-3196887/ | entire site | image | for gallery and background |
+| [Unsplash](https://unsplash.com/photos/border-colie-on-rocky-river-WGP0uYcn9SE) | entire site | image | for gallery and background |
+| [Unsplash](https://unsplash.com/photos/walkway-between-green-grass-at-daytime-IqErth7cRJM) | entire site | image | for gallery and background |
+| [Unsplash](https://unsplash.com/photos/green-trees-in-forest-Omlu0KHlUiQ) | entire site | image | for gallery and background |
+| [Unsplash](https://unsplash.com/photos/brown-bread-on-white-paper-zOliwDYxxDg) | entire site | image | for gallery and background |
+| [Unsplash](https://unsplash.com/es/fotos/un-perro-acostado-en-la-hierba-junto-a-una-hamaca-xuq3CwRYmro) | entire site | image | for gallery and background |
+| [Unsplash](https://unsplash.com/photos/shallow-focus-photography-of-white-shih-tzu-puppy-running-on-the-grass-qO-PIF84Vxg) | entire site | image | for gallery and background |
+| [Unsplash](https://unsplash.com/photos/a-group-of-horses-stand-in-a-grassy-field-a-lrqwFF3UE) | entire site | image | for gallery and background |
+| [Unsplash](https://unsplash.com/photos/stainless-steel-vacuum-flask-beside-brown-cookies-on-brown-wooden-table-jpxnIN5AC4g) | entire site | image | for gallery and background |
+| [Unsplash](https://unsplash.com/photos/silver-bucket-on-wooden-fence-US_PBO48mIg) | entire site | image | for gallery and background |
+| [Unsplash](https://unsplash.com/photos/white-ceramic-cup-with-saucer-on-brown-wooden-table-c8gSQkwWoRA) | entire site | image | for gallery and background |
+| [Unsplash](https://unsplash.com/photos/brown-and-white-long-coated-small-dog-lying-on-green-grass-G8cB8hY3yvU) | entire site | image | for gallery and background |
+| [Unsplash](https://unsplash.com/photos/a-wooden-fence-in-a-field-with-leaves-on-the-ground-7HZE1wTQ7Cw) | entire site | image | for gallery and background |
+| [Pexels](https://www.pexels.com/photo/close-up-photo-of-water-on-river-1626219/) | entire site | image | for gallery & background |
+| [Pexels](https://www.pexels.com/photo/adorable-dogs-sitting-on-pathway-in-countryside-7210625/) | entire site | image | for gallery & background |
+| [Pexels](https://www.pexels.com/photo/siberian-husky-doing-a-wink-expression-3196887/) | entire site | image | for gallery and background |
 
 
 ### Acknowledgements
