@@ -66,12 +66,3 @@ I've tested my deployed project on multiple devices to check for responsiveness 
 ![screenshot](documentation/lighthouse-gallery.png)
 ![screenshot](documentation/lighthouse-contact.png)
 ![screenshot](documentation/lighthouse-confirmation.png)
-
-## Bugs
-
-
-
-## Unfixed Bugs
-
-The text on contact and about is not responding well on phones. 
-I plan on adding media queries to fix this.
