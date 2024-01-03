@@ -12,14 +12,13 @@ I have tested the project in threee different browsers.
 
 I have used the recommended [HTML W3C Validator](https://validator.w3.org) to validate all of my HTML files.
 
-| Page | Screenshot | Notes |
-| --- | --- | --- |
-| Home | ![screenshot](documentation/html-validator-index.png) | --- |
-| Menu | ![screenshot](documentation/html-validator-menu.png) | --- |
-| About | ![screenshot](documentation/html-validator-about.png) | --- |
-| Gallery | ![screenshot](documentation/html-validator-gallery.png) | --- |
-| Contact | ![screenshot](documentation/html-validator-contact.png) | --- |
-| Confirmation | ![screenshot](documentation/html-validator-confirmation.png) | --- |
+| File | Screenshot |
+| --- | --- |
+| Home | ![screenshot](documentation/html-validator-index.png) |
+| Menu | ![screenshot](documentation/html-validator-menu.png) |
+| About | ![screenshot](documentation/html-validator-about.png) |
+| Gallery | ![screenshot](documentation/html-validator-gallery.png) |
+| Confirmation | ![screenshot](documentation/html-validator-confirmation.png) |
 
 
 ### CSS
